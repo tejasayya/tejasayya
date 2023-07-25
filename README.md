@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, ExpressJS, Prompt Engineering**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **Javascript, NodeJS, Data Engineering, Web Development, Prompts for AI tools**
 
 - 📫 How to reach me **tejasayya8@gmail.com**
 
