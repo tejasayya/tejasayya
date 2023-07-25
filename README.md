@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasayya&label=Profile%20views&color=0e75b6&style=flat-square" alt="tejasayya" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, ExpressJS**, Prompt Engineering**
+- 🌱 I’m currently learning **ReactJS, ExpressJS, Prompt Engineering**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
