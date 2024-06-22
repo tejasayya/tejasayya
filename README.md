@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sayya Teja Swaroop</h1>
+  <h1 align="center">Hi 👋, I'm Sayya Teja Swaroop</h1>
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasayya&label=Profile%20views&color=0e75b6&style=flat-square" alt="tejasayya" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, ExpressJS, Prompt Engineering**
+- 🌱 I’m currently learning **Natural Language Processing** and working on **Deep Learning Projects**
 
-- 💬 Ask me about **Javascript, NodeJS, Data Engineering, Web Development, Prompts for AI tools**
+- 💬 Ask me about **Data Engineering, Web Development, Prompts for AI tools**
 
 - 📫 How to reach me **tejasayya8@gmail.com**
 
