@@ -1,5 +1,6 @@
-  <h1 align="center">Hi 👋, I'm Sayya Teja Swaroop</h1>
-<h3 align="center">A passionate software developer</h3>
+<h1 align="center">Hi 👋, I'm Sayya Teja Swaroop</h1>
+<h3 align="center">I'm a passionate software engineer</h3>
+<h3 align="center" style="color: grey;"> Currently working on an ML Project </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasayya&label=Profile%20views&color=0e75b6&style=flat-square" alt="tejasayya" /> </p>
 
