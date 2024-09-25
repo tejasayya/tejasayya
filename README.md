@@ -13,6 +13,12 @@ I like to play with ML Algorithms, data, and execute analytical experiments, to 
 
 - 📫 Mail **teja.sayya108@gmail.com**
 
+ **I am open to**:
+
+- any collaboration work,
+- machine learning projects(development or research),
+- 2025 summer internships / full-time jobs [Software Engineer, Data Engineer, Full-Stack Dev, ML Engineer, Cloud Engineer]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/teja-sayya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teja-sayya" height="30" width="40" /></a>
