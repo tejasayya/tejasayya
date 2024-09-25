@@ -16,9 +16,11 @@ I like to play with ML Algorithms, data, and execute analytical experiments, to 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/teja-sayya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teja-sayya" height="30" width="40" /></a>
+  <!--
 <a href="https://www.leetcode.com/teja_sayya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="teja_sayya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<tejasayya8>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<tejasayya8>" height="30" width="40" /></a>
 </p>
+-->
 
 <h3 align="left">SKILLS:</h3>
 
