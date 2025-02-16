@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayya Teja Swaroop</h1>
-<h3 align="center">`Master's Student @UNC Charlotte, Specilizing in Data Science with AI/ML` | `ex-software engineer Infosys`</h3>
+<h3 align="center">`Master's Student @UNC Charlotte, Specilizing in Data Science with AI/ML` | `ex-software engineer`</h3>
 <h3 align="center" style="color: grey;"> Currently working on an ML Project </h3>
 
 I am a Machine Learning, Deep Learning, and Cloud Enthusiast. I like exploring new tech stacks 
