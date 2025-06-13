@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sayya Teja Swaroop</h1>
-<h3 align="center">`Master's Student @UNC Charlotte, Specilizing in Data Science with AI/ML` | `ex-software engineer`</h3>
-<h3 align="center" style="color: grey;"> Currently working on an ML Project </h3>
+<h3 align="center">`Software Engineer @ CVS Health. Master's Grad @ UNC Charlotte, Specilizing in AI/ML` </h3>
+<h3 align="center" style="color: grey;"> Currently working on an ML Side Project </h3>
 
 I am a Machine Learning, Deep Learning, and Cloud Enthusiast. I like exploring new tech stacks 
 I like to play with ML Algorithms, data, and execute analytical experiments, to create a positive impact across various domains and industries.  I also contribute to open source.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasayya&label=Profile%20views&color=0e75b6&style=flat-square" alt="tejasayya" /> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing** and working on **Deep Learning Projects**
+- 🌱 I’m currently learning **Large Language Models (LLMs)** , **Retrieval Augmented Generation (RAG)** and working on **Deep Learning Projects**
 
 - 💬 Lets Collaborate and Discuss on **Data Engineering, Web Applications, Amazon Web Services, Google Cloud Platform**
 
